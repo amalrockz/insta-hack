@@ -1,6 +1,6 @@
 clear 
  termux-setup-storage 
- figlet -f slant "Auto Admin" 
+ figlet -f slant "INSTAGRAM HACKING" 
   
  echo "                         coded by <MR|D3V1L>" 
   
