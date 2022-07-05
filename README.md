@@ -1,4 +1,5 @@
-# insta-hack
+# INSTAGRAM ©ORPERATION
+
 # Hack Instagram accounts with letest technology
 
 $ apt update && apt upgrade
