@@ -1,7 +1,7 @@
 
 
 clear 
- termux-setup-storage 
+  
  figlet -f slant "INSTAGRAM HACKING" 
   
  echo "                         coded by <MR|4M41R0CKZ>" 
