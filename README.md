@@ -11,7 +11,8 @@ $ pkg install git -y
 $ pkg install bash -y
 
 
-$ git clone
+$ git clone https://github.com/problems-arelifepartner/insta-hack
+
 
 
 $ cd insta-hack
