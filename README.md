@@ -21,7 +21,7 @@ $ pkg install git -y
 $ pkg install bash -y
 
 
-$ git clone https://github.com/problems-arelifepartner/insta-hack
+$ git clone https://github.com/amalrockz/insta-hack.git
 
 
 
